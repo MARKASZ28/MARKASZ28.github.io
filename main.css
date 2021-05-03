@@ -1,8 +1,7 @@
-body
-{
-	margin:0;
-	background-color: #c5c5c5;
-	color:#c5c5c5;
-	font-family: 'Orbitron';
-	font: size 18px;px;
+body {
+  margin: 0;
+  background-color: #c5c5c5;
+  color: #c5c5c5;
+  font-family: "Orbitron";
+  font: size 18px;
 }
